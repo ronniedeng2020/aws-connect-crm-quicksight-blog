@@ -3,6 +3,8 @@
 The repo provides reference architecture to deploy 
 
 
-The repo contains code tied to blog
+The repo contains code tied to blogs
+
+Blog 1: 
 
 
